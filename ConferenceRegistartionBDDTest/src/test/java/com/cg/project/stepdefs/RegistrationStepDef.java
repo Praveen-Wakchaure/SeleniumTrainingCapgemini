@@ -33,7 +33,7 @@ public class RegistrationStepDef {
 
 	@Given("User is on Conference Registration Page")
 	public void user_is_on_Conference_Registration_Page() {
-	    driver.get("file:///E:/DAQE%20Training/BBD/Projects/ConferenceBooking/ConferenceRegistartion.html");
+	    driver.get("C:\\Users\\Praveen\\git\\repository2\\ConferenceRegistartionBDDTest\\ConferenceRegistartion.html");
 	}
 
 	@When("User Verify the title Conference Registration of the page.")

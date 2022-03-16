@@ -37,7 +37,7 @@ public class PaymentStepDef {
 	
 	@Given("User is on Payment Details Page")
 	public void user_is_on_Payment_Details_Page() {
-	    driver.get("file:///E:/DAQE%20Training/BBD/Projects/ConferenceBooking/PaymentDetails.html");
+	    driver.get("C:\\Users\\Praveen\\git\\repository2\\ConferenceRegistartionBDDTest\\PaymentDetails.html");
 	}
 
 	@When("User Verify the title Personal Details of the page")
